@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Daily Verses",
+  "description": "Daily bible verses",
+  "version": "0.1",
+  "icons": {
+    "16": "/bible.png",
+    "32": "/bible.png",
+    "48": "/bible.png",
+    "128": "/bible.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
